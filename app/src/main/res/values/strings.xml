@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+
+    <string name="password_lenght_error">Password must be between 8 and 15 characters</string>
+    <string name="password_numbers_letters_error">Must contain numbers and letters</string>
+    <string name="password_special_chars_error">Must contain at least 1 of these special characters: </string>
+    <string name="password_special_chars">~!@#$%^&amp;*_-+=|\(){}[]:;&lt;&gt;,.?</string>
+    <string name="password_accepted_chars_error">Every character of the password must be one of: \n ONE_OF \n Anything else is not accepted.</string>
+    <string name="password_accepted_chars">~!@#$%^&amp;*_-+=|\(){}[]:;&lt;&gt;,.?abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+    <string name="passwordHintSignUp">8 - 15 characters.\nAt least one number, one symbol and one lowercase and one uppercase</string>
+    <string name="emailNoValidHint">Must be a valid email address</string>
+    <string name="loginCredentialError">Email address and password is not a valid combination.</string>
+    <string name="loginCommunicationError">Network Communication Error</string>
+</resources>
